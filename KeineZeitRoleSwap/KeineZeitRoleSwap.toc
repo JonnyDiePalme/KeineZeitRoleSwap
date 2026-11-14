@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Keine Zeit RoleSwap
+## Notes: Setzt deine Gruppenrolle automatisch (Standard Tank)
+## Author: JonnyDiePalme
+## Version: 1.0
+## SavedVariablesPerCharacter: KZRolleDB
+
+KeineZeitRoleSwap.lua

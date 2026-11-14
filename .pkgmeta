@@ -1,0 +1,12 @@
+package-as: KeineZeitRoleSwap
+
+move-folders:
+  KeineZeitRoleSwap/KeineZeitRoleSwap: KeineZeitRoleSwap
+
+manual-changelog:
+  filename: KeineZeitRoleSwap/CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - README.md
+  - .github
